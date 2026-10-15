@@ -4,12 +4,10 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · malakkorashy23-source</sub></p>
-<h1>Malak Korashy</h1>
+<h1>Hi 👋 ,I'm Malak Korashy</h1>
 <h2>Front-End Developer | Aspiring Full-Stack Engineer </h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-
-<p><a href="https://github.com/malakkorashy23-source">GitHub</a></p>
+<p>I'm a Computer Science student passionate about building responsive, interactive, and user-friendly web applications.</p>
+ 
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/275587747?v=4" width="180" alt="Malak Korashy GitHub avatar" />
@@ -18,17 +16,28 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<hr />
 
 <table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Front-End · JavaScript · HTML · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>24 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>75 contributions · 39 active days</p></td>
-</tr>
+  <tr>
+    <td width="100%" valign="middle"><h2>About Me :</h2></td>
+  </tr>
+  <tr width="100%">
+    <td>
+          <p>Malak Korashy</ p>
+          <p>Computer Science & Artificial Intelligence student</p>
+          <p>Focused on Frontend Web Development</p>
+          <p>Currently expanding my knowledge toward Full-Stack Development</p>
+          <p>Interested in building responsive and interactive web applications</p>
+          <p>Continuously learning and improving my programming skills</p>
+    </td>
+  </tr>
 </table>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gulp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gulp" alt="gulp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a></p>
 
 <h2>Proof at a glance</h2>
 
@@ -69,9 +78,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/Game">Game</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/L10-house">L10-house</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/News">News</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/Game">Game</a></h3><p>Interactive web game built using JavaScript with a focus on dynamic interactions and user experience.</p><p><sub>HTML - css - JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/L10-house">L10-house</a></h3><p>A translation company website built with a modern responsive interface and interactive animations.</p><p><sub>HTML - css - sass - Tpescript - JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/malakkorashy23-source/News">News</a></h3><p>A web project that works with external data and demonstrates working with APIs and dynamic content.</p><p><sub>HTML - css - JavaScript - API · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
@@ -102,13 +111,5 @@
 </picture>
 </p>
 
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/malakkorashy23-source">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Malak Korashy · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+ 
+ 
